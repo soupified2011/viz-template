@@ -2,6 +2,14 @@
 
 Template for visualization projects, based on example Moritz Stefaner
 
+## Starting a new project
+
+  git clone --depth 1 --origin source viz-template new-project
+  cd new-project
+  hub create
+  git remote rm source
+  git push --set-upstream origin master
+
 ## Setting things up
 
 Need:
