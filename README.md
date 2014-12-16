@@ -7,7 +7,6 @@ Template for visualization projects, based on example Moritz Stefaner
 Need:
 
 * npm install
-
 * lib/
 * src/main.coffee
 * package.json
